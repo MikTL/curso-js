@@ -1,0 +1,3 @@
+[submodule "ejercicios_js"]
+	path = ejercicios_js
+	url = https://github.com/MikTL/ejercicios_js.git
