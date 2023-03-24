@@ -1,3 +1,6 @@
 [submodule "ejercicios_js"]
 	path = ejercicios_js
 	url = https://github.com/MikTL/ejercicios_js.git
+[submodule "dom-app"]
+	path = dom-app
+	url = https://github.com/MikTL/dom-app.git
